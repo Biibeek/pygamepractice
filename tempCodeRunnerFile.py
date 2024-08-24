@@ -1,0 +1,1 @@
+pygame.time.get_ticks()/1000
